@@ -1,4 +1,3 @@
 Hai
-Mohan
 This
 is the new file
